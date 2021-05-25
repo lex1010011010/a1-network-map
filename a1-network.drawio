@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-25T12:03:11.110Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="_TSoBtNDu91gZkBNSDgn" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-25T15:24:38.355Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="fIr01rXnBZtREPCpoWbL" version="14.7.0" type="github">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
-    <mxGraphModel dx="2261" dy="1411" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2455" dy="1505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -153,7 +153,7 @@
         <mxCell id="QQD1jeynAQxtIbIDcrcr-53" value="Интернет клиента" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.cloud;" vertex="1" parent="1">
           <mxGeometry x="867" y="1060" width="95" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="QQD1jeynAQxtIbIDcrcr-54" value="ELRAI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-54" value="Электронный Рай" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="890" y="990" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QQD1jeynAQxtIbIDcrcr-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="QQD1jeynAQxtIbIDcrcr-56" target="QQD1jeynAQxtIbIDcrcr-53">
@@ -228,61 +228,61 @@
           <mxGeometry x="10" y="10" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QQD1jeynAQxtIbIDcrcr-95" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="1610" width="520" height="360" as="geometry" />
+          <mxGeometry x="800" y="1380" width="520" height="360" as="geometry" />
         </mxCell>
         <mxCell id="QQD1jeynAQxtIbIDcrcr-96" value="Интернет клиента" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.cloud;" vertex="1" parent="1">
-          <mxGeometry x="867" y="1690" width="95" height="62" as="geometry" />
+          <mxGeometry x="867" y="1460" width="95" height="62" as="geometry" />
         </mxCell>
         <mxCell id="QQD1jeynAQxtIbIDcrcr-97" value="Стройка" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="890" y="1620" width="340" height="60" as="geometry" />
+          <mxGeometry x="890" y="1390" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QQD1jeynAQxtIbIDcrcr-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="QQD1jeynAQxtIbIDcrcr-99" target="QQD1jeynAQxtIbIDcrcr-96">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QQD1jeynAQxtIbIDcrcr-99" value="09a" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="870" y="1807" width="89" height="98" as="geometry" />
+          <mxGeometry x="870" y="1577" width="89" height="98" as="geometry" />
         </mxCell>
         <mxCell id="QQD1jeynAQxtIbIDcrcr-100" value="ID 09" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="810" y="1620" width="70" height="20" as="geometry" />
+          <mxGeometry x="810" y="1390" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QQD1jeynAQxtIbIDcrcr-103" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1390" y="1610" width="390" height="360" as="geometry" />
+          <mxGeometry x="1390" y="1380" width="390" height="360" as="geometry" />
         </mxCell>
         <mxCell id="QQD1jeynAQxtIbIDcrcr-104" value="Интернет клиента" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.cloud;" vertex="1" parent="1">
-          <mxGeometry x="1457" y="1690" width="95" height="62" as="geometry" />
+          <mxGeometry x="1457" y="1460" width="95" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="QQD1jeynAQxtIbIDcrcr-105" value="EURO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="1415" y="1615" width="340" height="60" as="geometry" />
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-105" value="Европейский" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="1415" y="1385" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QQD1jeynAQxtIbIDcrcr-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="QQD1jeynAQxtIbIDcrcr-107" target="QQD1jeynAQxtIbIDcrcr-104">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QQD1jeynAQxtIbIDcrcr-107" value="10b" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="1460" y="1807" width="89" height="98" as="geometry" />
+          <mxGeometry x="1460" y="1577" width="89" height="98" as="geometry" />
         </mxCell>
         <mxCell id="QQD1jeynAQxtIbIDcrcr-108" value="ID 10" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="1620" width="70" height="20" as="geometry" />
+          <mxGeometry x="1400" y="1390" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QQD1jeynAQxtIbIDcrcr-109" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1820" y="1610" width="390" height="360" as="geometry" />
+          <mxGeometry x="1820" y="1380" width="390" height="360" as="geometry" />
         </mxCell>
         <mxCell id="QQD1jeynAQxtIbIDcrcr-110" value="Интернет клиента" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.cloud;" vertex="1" parent="1">
-          <mxGeometry x="1887" y="1690" width="95" height="62" as="geometry" />
+          <mxGeometry x="1887" y="1460" width="95" height="62" as="geometry" />
         </mxCell>
         <mxCell id="QQD1jeynAQxtIbIDcrcr-111" value="Вело-Завод" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="1845" y="1615" width="340" height="60" as="geometry" />
+          <mxGeometry x="1845" y="1385" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QQD1jeynAQxtIbIDcrcr-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="QQD1jeynAQxtIbIDcrcr-113" target="QQD1jeynAQxtIbIDcrcr-110">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QQD1jeynAQxtIbIDcrcr-113" value="11" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="1890" y="1807" width="89" height="98" as="geometry" />
+          <mxGeometry x="1890" y="1577" width="89" height="98" as="geometry" />
         </mxCell>
         <mxCell id="QQD1jeynAQxtIbIDcrcr-114" value="ID 11" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="1830" y="1620" width="70" height="20" as="geometry" />
+          <mxGeometry x="1830" y="1390" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QQD1jeynAQxtIbIDcrcr-115" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1460" y="-500" width="640" height="500" as="geometry" />
+          <mxGeometry x="1350" y="840" width="640" height="500" as="geometry" />
         </mxCell>
         <mxCell id="QQD1jeynAQxtIbIDcrcr-57" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QQD1jeynAQxtIbIDcrcr-115">
           <mxGeometry width="640" height="500" as="geometry" />
@@ -290,7 +290,7 @@
         <mxCell id="QQD1jeynAQxtIbIDcrcr-58" value="Интернет клиента" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.cloud;" vertex="1" parent="QQD1jeynAQxtIbIDcrcr-115">
           <mxGeometry x="77" y="80" width="95" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="QQD1jeynAQxtIbIDcrcr-59" value="Неизвестно" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="QQD1jeynAQxtIbIDcrcr-115">
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-59" value="Садовод" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="QQD1jeynAQxtIbIDcrcr-115">
           <mxGeometry x="230" y="20" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QQD1jeynAQxtIbIDcrcr-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="QQD1jeynAQxtIbIDcrcr-115" source="QQD1jeynAQxtIbIDcrcr-61" target="QQD1jeynAQxtIbIDcrcr-58">
@@ -365,7 +365,7 @@
           <mxGeometry x="7" y="10" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QQD1jeynAQxtIbIDcrcr-117" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-590" y="1410" width="360" height="360" as="geometry" />
+          <mxGeometry x="260" y="1765" width="360" height="360" as="geometry" />
         </mxCell>
         <mxCell id="QQD1jeynAQxtIbIDcrcr-118" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QQD1jeynAQxtIbIDcrcr-117">
           <mxGeometry width="360" height="360" as="geometry" />
@@ -373,7 +373,7 @@
         <mxCell id="QQD1jeynAQxtIbIDcrcr-119" value="Интернет клиента" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.cloud;" vertex="1" parent="QQD1jeynAQxtIbIDcrcr-117">
           <mxGeometry x="67" y="80" width="95" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="QQD1jeynAQxtIbIDcrcr-120" value="ОРТЦ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="QQD1jeynAQxtIbIDcrcr-117">
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-120" value="ОРТЦ 19st." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="QQD1jeynAQxtIbIDcrcr-117">
           <mxGeometry y="10" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QQD1jeynAQxtIbIDcrcr-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="QQD1jeynAQxtIbIDcrcr-117" source="QQD1jeynAQxtIbIDcrcr-122" target="QQD1jeynAQxtIbIDcrcr-119">
@@ -383,6 +383,184 @@
           <mxGeometry x="70" y="197" width="89" height="98" as="geometry" />
         </mxCell>
         <mxCell id="QQD1jeynAQxtIbIDcrcr-125" value="ID 15" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="QQD1jeynAQxtIbIDcrcr-117">
+          <mxGeometry x="10" y="10" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-127" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="650" y="1765" width="360" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-128" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QQD1jeynAQxtIbIDcrcr-127">
+          <mxGeometry width="360" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-129" value="YOTA" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.cloud;" vertex="1" parent="QQD1jeynAQxtIbIDcrcr-127">
+          <mxGeometry x="67" y="80" width="95" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-130" value="Мариэль" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="QQD1jeynAQxtIbIDcrcr-127">
+          <mxGeometry y="10" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="QQD1jeynAQxtIbIDcrcr-127" source="QQD1jeynAQxtIbIDcrcr-132" target="QQD1jeynAQxtIbIDcrcr-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-132" value="16a" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;fontSize=24;" vertex="1" parent="QQD1jeynAQxtIbIDcrcr-127">
+          <mxGeometry x="70" y="197" width="89" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-133" value="ID 16" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="QQD1jeynAQxtIbIDcrcr-127">
+          <mxGeometry x="10" y="10" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-136" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1030" y="1765" width="360" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-137" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QQD1jeynAQxtIbIDcrcr-136">
+          <mxGeometry width="360" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-138" value="Интернет клиента" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.cloud;" vertex="1" parent="QQD1jeynAQxtIbIDcrcr-136">
+          <mxGeometry x="67" y="80" width="95" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-139" value="Мини-Молл" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="QQD1jeynAQxtIbIDcrcr-136">
+          <mxGeometry y="10" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="QQD1jeynAQxtIbIDcrcr-136" source="QQD1jeynAQxtIbIDcrcr-141" target="QQD1jeynAQxtIbIDcrcr-138">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-141" value="17a" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;fontSize=24;" vertex="1" parent="QQD1jeynAQxtIbIDcrcr-136">
+          <mxGeometry x="70" y="197" width="89" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-142" value="ID 17" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="QQD1jeynAQxtIbIDcrcr-136">
+          <mxGeometry x="10" y="10" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-143" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1415" y="1765" width="360" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-144" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QQD1jeynAQxtIbIDcrcr-143">
+          <mxGeometry width="360" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-145" value="Интернет клиента" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.cloud;" vertex="1" parent="QQD1jeynAQxtIbIDcrcr-143">
+          <mxGeometry x="67" y="80" width="95" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-146" value="Кристалл" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="QQD1jeynAQxtIbIDcrcr-143">
+          <mxGeometry y="10" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="QQD1jeynAQxtIbIDcrcr-143" source="QQD1jeynAQxtIbIDcrcr-148" target="QQD1jeynAQxtIbIDcrcr-145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-148" value="18b" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;fontSize=24;" vertex="1" parent="QQD1jeynAQxtIbIDcrcr-143">
+          <mxGeometry x="70" y="197" width="89" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-149" value="ID 18" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="QQD1jeynAQxtIbIDcrcr-143">
+          <mxGeometry x="10" y="10" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-152" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1790" y="1765" width="360" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-153" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QQD1jeynAQxtIbIDcrcr-152">
+          <mxGeometry width="360" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-154" value="Интернет клиента" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.cloud;" vertex="1" parent="QQD1jeynAQxtIbIDcrcr-152">
+          <mxGeometry x="67" y="80" width="95" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-155" value="Атлантисс" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="QQD1jeynAQxtIbIDcrcr-152">
+          <mxGeometry y="10" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="QQD1jeynAQxtIbIDcrcr-152" source="QQD1jeynAQxtIbIDcrcr-157" target="QQD1jeynAQxtIbIDcrcr-154">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-157" value="19a" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;fontSize=24;" vertex="1" parent="QQD1jeynAQxtIbIDcrcr-152">
+          <mxGeometry x="70" y="197" width="89" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-158" value="ID 19" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="QQD1jeynAQxtIbIDcrcr-152">
+          <mxGeometry x="10" y="10" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-159" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2170" y="1765" width="360" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-160" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QQD1jeynAQxtIbIDcrcr-159">
+          <mxGeometry width="360" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-161" value="Интернет клиента" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.cloud;" vertex="1" parent="QQD1jeynAQxtIbIDcrcr-159">
+          <mxGeometry x="67" y="80" width="95" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-162" value="Румянцево" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="QQD1jeynAQxtIbIDcrcr-159">
+          <mxGeometry y="10" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="QQD1jeynAQxtIbIDcrcr-159" source="QQD1jeynAQxtIbIDcrcr-164" target="QQD1jeynAQxtIbIDcrcr-161">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-164" value="20a" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;fontSize=24;" vertex="1" parent="QQD1jeynAQxtIbIDcrcr-159">
+          <mxGeometry x="70" y="197" width="89" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-165" value="ID 20" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="QQD1jeynAQxtIbIDcrcr-159">
+          <mxGeometry x="10" y="10" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-166" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="260" y="2150" width="360" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-167" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QQD1jeynAQxtIbIDcrcr-166">
+          <mxGeometry width="360" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-168" value="Интернет клиента" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.cloud;" vertex="1" parent="QQD1jeynAQxtIbIDcrcr-166">
+          <mxGeometry x="67" y="80" width="95" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-169" value="Дубровка" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="QQD1jeynAQxtIbIDcrcr-166">
+          <mxGeometry y="10" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="QQD1jeynAQxtIbIDcrcr-166" source="QQD1jeynAQxtIbIDcrcr-171" target="QQD1jeynAQxtIbIDcrcr-168">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-171" value="21b" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;fontSize=24;" vertex="1" parent="QQD1jeynAQxtIbIDcrcr-166">
+          <mxGeometry x="70" y="197" width="89" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-172" value="ID 21" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="QQD1jeynAQxtIbIDcrcr-166">
+          <mxGeometry x="10" y="10" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="QQD1jeynAQxtIbIDcrcr-166" source="QQD1jeynAQxtIbIDcrcr-174" target="QQD1jeynAQxtIbIDcrcr-168">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="111" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-174" value="21MIC" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;fontSize=24;" vertex="1" parent="QQD1jeynAQxtIbIDcrcr-166">
+          <mxGeometry x="220" y="197" width="89" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-176" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="650" y="2150" width="360" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-177" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QQD1jeynAQxtIbIDcrcr-176">
+          <mxGeometry width="360" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-178" value="Интернет клиента" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.cloud;" vertex="1" parent="QQD1jeynAQxtIbIDcrcr-176">
+          <mxGeometry x="67" y="80" width="95" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-179" value="Южные Ворота" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="QQD1jeynAQxtIbIDcrcr-176">
+          <mxGeometry y="10" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-180" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="QQD1jeynAQxtIbIDcrcr-176" source="QQD1jeynAQxtIbIDcrcr-181" target="QQD1jeynAQxtIbIDcrcr-178">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-181" value="24a" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;fontSize=24;" vertex="1" parent="QQD1jeynAQxtIbIDcrcr-176">
+          <mxGeometry x="70" y="197" width="89" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-182" value="ID 24" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="QQD1jeynAQxtIbIDcrcr-176">
+          <mxGeometry x="10" y="10" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-185" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1030" y="2150" width="360" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-186" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="QQD1jeynAQxtIbIDcrcr-185">
+          <mxGeometry width="360" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-187" value="Интернет клиента" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.cloud;" vertex="1" parent="QQD1jeynAQxtIbIDcrcr-185">
+          <mxGeometry x="67" y="80" width="95" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-188" value="Люблино" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="QQD1jeynAQxtIbIDcrcr-185">
+          <mxGeometry y="10" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-189" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="QQD1jeynAQxtIbIDcrcr-185" source="QQD1jeynAQxtIbIDcrcr-190" target="QQD1jeynAQxtIbIDcrcr-187">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-190" value="30a" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;fontSize=24;" vertex="1" parent="QQD1jeynAQxtIbIDcrcr-185">
+          <mxGeometry x="70" y="197" width="89" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-191" value="ID 30" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="QQD1jeynAQxtIbIDcrcr-185">
           <mxGeometry x="10" y="10" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
