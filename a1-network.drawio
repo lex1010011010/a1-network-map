@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-26T11:17:53.832Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="EB9qp_O_cCFnuTFhqCHk" version="14.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-26T13:03:35.281Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="XToRIK0QfwZ-kxQcNUX4" version="14.7.1" type="github">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
-    <mxGraphModel dx="2121" dy="1312" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1823" dy="1178" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -781,8 +781,32 @@
         <mxCell id="71yrkKhMwaC9UnlDIWYW-38" value="ID 40" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=24;" vertex="1" parent="71yrkKhMwaC9UnlDIWYW-32">
           <mxGeometry x="10" y="10" width="70" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="71yrkKhMwaC9UnlDIWYW-48" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="71yrkKhMwaC9UnlDIWYW-32" source="71yrkKhMwaC9UnlDIWYW-39" target="71yrkKhMwaC9UnlDIWYW-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="71yrkKhMwaC9UnlDIWYW-39" value="40b" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;fontSize=24;" vertex="1" parent="71yrkKhMwaC9UnlDIWYW-32">
           <mxGeometry x="125.5" y="190" width="89" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="71yrkKhMwaC9UnlDIWYW-40" value="" style="group;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="260" y="2940" width="380" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="71yrkKhMwaC9UnlDIWYW-41" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="71yrkKhMwaC9UnlDIWYW-40">
+          <mxGeometry width="380" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="71yrkKhMwaC9UnlDIWYW-42" value="Интернет клиента" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.cloud;" vertex="1" parent="71yrkKhMwaC9UnlDIWYW-40">
+          <mxGeometry x="67" y="80" width="95" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="71yrkKhMwaC9UnlDIWYW-43" value="Дубровка электронная" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=24;" vertex="1" parent="71yrkKhMwaC9UnlDIWYW-40">
+          <mxGeometry y="10" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="71yrkKhMwaC9UnlDIWYW-44" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="71yrkKhMwaC9UnlDIWYW-40" source="71yrkKhMwaC9UnlDIWYW-45" target="71yrkKhMwaC9UnlDIWYW-42">
+          <mxGeometry as="geometry" />
+        </mxCell>
+        <mxCell id="71yrkKhMwaC9UnlDIWYW-45" value="51a" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;fontSize=24;" vertex="1" parent="71yrkKhMwaC9UnlDIWYW-40">
+          <mxGeometry x="70" y="200" width="89" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="71yrkKhMwaC9UnlDIWYW-46" value="ID 51" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=24;" vertex="1" parent="71yrkKhMwaC9UnlDIWYW-40">
+          <mxGeometry x="10" y="10" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
