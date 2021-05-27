@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-27T10:52:14.911Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="NXFIFASAtKvPKSJoR5mC" version="14.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-27T10:59:59.938Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="GZqxgtwQzi-Yya7-sjkS" version="14.7.1" type="github">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
-    <mxGraphModel dx="2340" dy="1411" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="6887" dy="3470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,8 +10,8 @@
         <mxCell id="QQD1jeynAQxtIbIDcrcr-1" value="" style="whiteSpace=wrap;html=1;" parent="QQD1jeynAQxtIbIDcrcr-35" vertex="1">
           <mxGeometry x="-220" width="1380" height="1054" as="geometry" />
         </mxCell>
-        <mxCell id="QQD1jeynAQxtIbIDcrcr-2" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Основная серверная&lt;br&gt;Расположение: Люблино ТЯК Москва&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" parent="QQD1jeynAQxtIbIDcrcr-35" vertex="1">
-          <mxGeometry x="345.5" y="44" width="454.5" height="40" as="geometry" />
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-2" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Основная серверная&lt;br&gt;Расположение: Люблино ТЯК Москва строение 5&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" parent="QQD1jeynAQxtIbIDcrcr-35" vertex="1">
+          <mxGeometry x="345.5" y="44" width="644.5" height="66" as="geometry" />
         </mxCell>
         <mxCell id="QQD1jeynAQxtIbIDcrcr-3" value="FTP-Server" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.ftp_server;" parent="QQD1jeynAQxtIbIDcrcr-35" vertex="1">
           <mxGeometry x="284.5" y="204" width="71" height="97" as="geometry" />
@@ -261,7 +261,7 @@
         <mxCell id="QQD1jeynAQxtIbIDcrcr-39" value="Интернет клиента" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.cloud;" parent="QQD1jeynAQxtIbIDcrcr-92" vertex="1">
           <mxGeometry x="67" y="80" width="95" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="QQD1jeynAQxtIbIDcrcr-40" value="ОРТЦ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=24;" parent="QQD1jeynAQxtIbIDcrcr-92" vertex="1">
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-40" value="ТЯК Москва строение 6" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=24;" parent="QQD1jeynAQxtIbIDcrcr-92" vertex="1">
           <mxGeometry y="10" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QQD1jeynAQxtIbIDcrcr-43" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" parent="QQD1jeynAQxtIbIDcrcr-92" source="QQD1jeynAQxtIbIDcrcr-41" target="QQD1jeynAQxtIbIDcrcr-39" edge="1">
@@ -289,8 +289,8 @@
         <mxCell id="QQD1jeynAQxtIbIDcrcr-96" value="Интернет клиента" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.cloud;" parent="1" vertex="1">
           <mxGeometry x="867" y="1460" width="95" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="QQD1jeynAQxtIbIDcrcr-97" value="Стройка" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="890" y="1390" width="340" height="60" as="geometry" />
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-97" value="ТВК Строй-Москва&lt;br&gt;На одной территории с ТЯК Москва" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=24;" parent="1" vertex="1">
+          <mxGeometry x="890" y="1390" width="430" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QQD1jeynAQxtIbIDcrcr-98" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" parent="1" source="QQD1jeynAQxtIbIDcrcr-99" target="QQD1jeynAQxtIbIDcrcr-96" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -607,8 +607,8 @@
         <mxCell id="QQD1jeynAQxtIbIDcrcr-187" value="Интернет клиента" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.cloud;" parent="QQD1jeynAQxtIbIDcrcr-185" vertex="1">
           <mxGeometry x="67" y="80" width="95" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="QQD1jeynAQxtIbIDcrcr-188" value="Люблино" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=24;" parent="QQD1jeynAQxtIbIDcrcr-185" vertex="1">
-          <mxGeometry y="10" width="340" height="60" as="geometry" />
+        <mxCell id="QQD1jeynAQxtIbIDcrcr-188" value="ТЯК Москва строение 3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=24;" parent="QQD1jeynAQxtIbIDcrcr-185" vertex="1">
+          <mxGeometry x="10" y="10" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QQD1jeynAQxtIbIDcrcr-189" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" parent="QQD1jeynAQxtIbIDcrcr-185" source="QQD1jeynAQxtIbIDcrcr-190" target="QQD1jeynAQxtIbIDcrcr-187" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -618,6 +618,12 @@
         </mxCell>
         <mxCell id="QQD1jeynAQxtIbIDcrcr-191" value="ID 30" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=24;" parent="QQD1jeynAQxtIbIDcrcr-185" vertex="1">
           <mxGeometry x="10" y="10" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="71yrkKhMwaC9UnlDIWYW-113" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="QQD1jeynAQxtIbIDcrcr-185" source="71yrkKhMwaC9UnlDIWYW-112" target="QQD1jeynAQxtIbIDcrcr-190">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71yrkKhMwaC9UnlDIWYW-112" value="61a" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;fontSize=24;" vertex="1" parent="QQD1jeynAQxtIbIDcrcr-185">
+          <mxGeometry x="215" y="197" width="89" height="98" as="geometry" />
         </mxCell>
         <mxCell id="R49vgUvn8VgqqB36kETE-3" value="" style="group;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1800" y="2160" width="360" height="360" as="geometry" />
@@ -1005,6 +1011,27 @@
         </mxCell>
         <mxCell id="71yrkKhMwaC9UnlDIWYW-101" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.cloud;rounded=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="810" y="550" width="95" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="71yrkKhMwaC9UnlDIWYW-105" value="" style="group;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1280" y="2960" width="360" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="71yrkKhMwaC9UnlDIWYW-106" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="71yrkKhMwaC9UnlDIWYW-105">
+          <mxGeometry width="360" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="71yrkKhMwaC9UnlDIWYW-107" value="Интернет клиента" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.cloud;" vertex="1" parent="71yrkKhMwaC9UnlDIWYW-105">
+          <mxGeometry x="67" y="80" width="95" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="71yrkKhMwaC9UnlDIWYW-108" value="ТЯК Москва строение 6" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=24;" vertex="1" parent="71yrkKhMwaC9UnlDIWYW-105">
+          <mxGeometry y="10" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="71yrkKhMwaC9UnlDIWYW-109" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="71yrkKhMwaC9UnlDIWYW-105" source="71yrkKhMwaC9UnlDIWYW-110" target="71yrkKhMwaC9UnlDIWYW-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71yrkKhMwaC9UnlDIWYW-110" value="30a" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.desktop;fontSize=24;" vertex="1" parent="71yrkKhMwaC9UnlDIWYW-105">
+          <mxGeometry x="70" y="197" width="89" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="71yrkKhMwaC9UnlDIWYW-111" value="ID 62" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=24;" vertex="1" parent="71yrkKhMwaC9UnlDIWYW-105">
+          <mxGeometry x="10" y="10" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
