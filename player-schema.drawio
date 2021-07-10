@@ -1,18 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2021-07-10T15:08:56.340Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="lVUEazRqlo8G905suOuN" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-10T15:20:09.366Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="mapASVdyOMLvn-4mQMSx" version="14.7.6" type="github">
   <diagram id="w9gRyj3N1DJt5Vruh8G7" name="Page-1">
-    <mxGraphModel dx="868" dy="1562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1447" dy="1824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vIM-qlWaezYcbGKkUeEU-79" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;rounded=0;entryX=1;entryY=0.591;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=diamond;endFill=1;shape=link;" edge="1" parent="1" source="vIM-qlWaezYcbGKkUeEU-77">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1110" y="317.50999999999976" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1200" y="317.5" />
-              <mxPoint x="1200" y="317.5" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="vIM-qlWaezYcbGKkUeEU-1" value="&lt;b&gt;VLC player&lt;/b&gt;&lt;br&gt;проигрывает музыку по команде в соответствии с плэйлистом&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="75" y="280" width="90" height="90" as="geometry" />
         </mxCell>
@@ -186,21 +177,54 @@
           <mxGeometry x="1000" y="390" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="vIM-qlWaezYcbGKkUeEU-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=11;" edge="1" parent="1" source="vIM-qlWaezYcbGKkUeEU-73" target="vIM-qlWaezYcbGKkUeEU-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="945" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vIM-qlWaezYcbGKkUeEU-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;endArrow=classic;endFill=1;shape=link;" edge="1" parent="1" source="vIM-qlWaezYcbGKkUeEU-73" target="vIM-qlWaezYcbGKkUeEU-77">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vIM-qlWaezYcbGKkUeEU-73" value="&lt;b&gt;Controller-Client&lt;/b&gt;&lt;br&gt;Получает информацию с сервера, получает музыку и рекламу, получает м. базу обслуживает вещалку" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="265" width="110" height="110" as="geometry" />
+          <mxGeometry x="890" y="-220" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="vIM-qlWaezYcbGKkUeEU-76" value="&lt;b&gt;Controller-Server&lt;/b&gt;&lt;br&gt;Отправляет команды вещалкам, монитроит, смотрит на очередь задач" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="255" width="115" height="115" as="geometry" />
-        </mxCell>
-        <mxCell id="vIM-qlWaezYcbGKkUeEU-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.542;entryDx=0;entryDy=0;fontSize=11;entryPerimeter=0;shape=link;" edge="1" parent="1" target="vIM-qlWaezYcbGKkUeEU-76">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1350" y="317" as="sourcePoint" />
-          </mxGeometry>
+          <mxGeometry x="180" y="-590" width="115" height="115" as="geometry" />
         </mxCell>
         <mxCell id="vIM-qlWaezYcbGKkUeEU-77" value="Internet" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="272.5" width="120" height="80" as="geometry" />
+          <mxGeometry x="520" y="-205" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vIM-qlWaezYcbGKkUeEU-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;endArrow=classic;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="vIM-qlWaezYcbGKkUeEU-83" target="vIM-qlWaezYcbGKkUeEU-63">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1180" y="130" />
+              <mxPoint x="1180" y="445" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vIM-qlWaezYcbGKkUeEU-87" value="получает инф.&lt;br&gt;о рекламе" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="vIM-qlWaezYcbGKkUeEU-84">
+          <mxGeometry x="-0.1993" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vIM-qlWaezYcbGKkUeEU-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;endArrow=classic;endFill=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vIM-qlWaezYcbGKkUeEU-73">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1055" y="90" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="980" y="-110" />
+              <mxPoint x="980" y="-80" />
+              <mxPoint x="1055" y="-80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vIM-qlWaezYcbGKkUeEU-86" value="отдает&lt;br&gt;информацию&amp;nbsp;&lt;br&gt;о рекламе" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="vIM-qlWaezYcbGKkUeEU-85">
+          <mxGeometry x="-0.2737" y="1" relative="1" as="geometry">
+            <mxPoint x="18" y="51" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vIM-qlWaezYcbGKkUeEU-83" value="&lt;b&gt;ADV playlist&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="1025" y="90" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
