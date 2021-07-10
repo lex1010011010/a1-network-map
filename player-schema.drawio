@@ -1,1 +1,188 @@
-<mxfile host="app.diagrams.net" modified="2021-07-10T11:23:57.433Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" version="14.7.6" etag="dit1v60Jz_KFG9Pfrz0g" type="github"><diagram id="w9gRyj3N1DJt5Vruh8G7">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-10T14:53:59.447Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="bWSsuvWQN_to4rn7abyv" version="14.7.6" type="github">
+  <diagram id="w9gRyj3N1DJt5Vruh8G7" name="Page-1">
+    <mxGraphModel dx="1240" dy="1730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vIM-qlWaezYcbGKkUeEU-1" value="&lt;b&gt;VLC player&lt;/b&gt;&lt;br&gt;проигрывает музыку по команде в соответствии с плэйлистом&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="75" y="280" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vIM-qlWaezYcbGKkUeEU-2" value="&lt;b&gt;TMP VLC&lt;/b&gt;&lt;br&gt;//создется экземпляр и убивается, когда проиграл рекламу" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="75" y="420" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vIM-qlWaezYcbGKkUeEU-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="vIM-qlWaezYcbGKkUeEU-7" target="vIM-qlWaezYcbGKkUeEU-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vIM-qlWaezYcbGKkUeEU-69" value="play&lt;br&gt;puse&lt;br&gt;volume" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="vIM-qlWaezYcbGKkUeEU-68">
+          <mxGeometry x="-0.5271" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vIM-qlWaezYcbGKkUeEU-7" value="&lt;b&gt;MIN APP&lt;/b&gt;&lt;br&gt;интерфейс в котором минимальный функционал" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="420" y="680" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vIM-qlWaezYcbGKkUeEU-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=52.5;exitPerimeter=0;" edge="1" parent="1" source="vIM-qlWaezYcbGKkUeEU-16" target="vIM-qlWaezYcbGKkUeEU-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vIM-qlWaezYcbGKkUeEU-56" value="прерывает музыку&lt;br&gt;и включает" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="vIM-qlWaezYcbGKkUeEU-19">
+          <mxGeometry x="0.2159" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" y="16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vIM-qlWaezYcbGKkUeEU-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="1" source="vIM-qlWaezYcbGKkUeEU-9" target="vIM-qlWaezYcbGKkUeEU-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vIM-qlWaezYcbGKkUeEU-59" value="играет постоянно&lt;br&gt;фидинг при получении&lt;br&gt;задачи из очереди" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="vIM-qlWaezYcbGKkUeEU-57">
+          <mxGeometry x="0.1835" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vIM-qlWaezYcbGKkUeEU-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vIM-qlWaezYcbGKkUeEU-9" target="vIM-qlWaezYcbGKkUeEU-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="378" y="550" />
+              <mxPoint x="120" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vIM-qlWaezYcbGKkUeEU-60" value="игарет рекламму/объявления" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="vIM-qlWaezYcbGKkUeEU-58">
+          <mxGeometry x="-0.1199" y="2" relative="1" as="geometry">
+            <mxPoint x="47" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vIM-qlWaezYcbGKkUeEU-9" value="&lt;b&gt;Express VLC&lt;br&gt;&lt;/b&gt;&amp;nbsp;//смотрит на очередь воспроизведения и управляет плеером" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="350" y="420" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vIM-qlWaezYcbGKkUeEU-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vIM-qlWaezYcbGKkUeEU-10" target="vIM-qlWaezYcbGKkUeEU-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vIM-qlWaezYcbGKkUeEU-10" value="&lt;b&gt;Music base&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="852" y="280" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vIM-qlWaezYcbGKkUeEU-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="1" source="vIM-qlWaezYcbGKkUeEU-11" target="vIM-qlWaezYcbGKkUeEU-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vIM-qlWaezYcbGKkUeEU-70" value="расширенное&lt;br&gt;управление" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="vIM-qlWaezYcbGKkUeEU-67">
+          <mxGeometry x="-0.6303" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vIM-qlWaezYcbGKkUeEU-11" value="&lt;b&gt;Advanced user APP&lt;/b&gt;&lt;br&gt;Расширенные настройки плеера" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="260" y="680" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vIM-qlWaezYcbGKkUeEU-16" value="&lt;b&gt;Queue&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="460" y="280" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vIM-qlWaezYcbGKkUeEU-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vIM-qlWaezYcbGKkUeEU-21" target="vIM-qlWaezYcbGKkUeEU-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="567" y="95" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vIM-qlWaezYcbGKkUeEU-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="1" source="vIM-qlWaezYcbGKkUeEU-21" target="vIM-qlWaezYcbGKkUeEU-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="475" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vIM-qlWaezYcbGKkUeEU-55" value="постоянно играет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="vIM-qlWaezYcbGKkUeEU-54">
+          <mxGeometry x="0.4464" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vIM-qlWaezYcbGKkUeEU-21" value="&lt;b&gt;Music&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="537" y="280" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vIM-qlWaezYcbGKkUeEU-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vIM-qlWaezYcbGKkUeEU-23" target="vIM-qlWaezYcbGKkUeEU-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="95" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vIM-qlWaezYcbGKkUeEU-23" value="&lt;b&gt;Alarm&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="680" y="280" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vIM-qlWaezYcbGKkUeEU-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vIM-qlWaezYcbGKkUeEU-24" target="vIM-qlWaezYcbGKkUeEU-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="95" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vIM-qlWaezYcbGKkUeEU-24" value="&lt;b&gt;Adv&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="610" y="280" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vIM-qlWaezYcbGKkUeEU-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=11;" edge="1" parent="1" source="vIM-qlWaezYcbGKkUeEU-25" target="vIM-qlWaezYcbGKkUeEU-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vIM-qlWaezYcbGKkUeEU-25" value="&lt;b&gt;Recorder&lt;/b&gt;&lt;br&gt;Обрабатывает звук с микрофона и кладет в таблицу срочных сообщений" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="760" y="50" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vIM-qlWaezYcbGKkUeEU-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=11;" edge="1" parent="1" source="vIM-qlWaezYcbGKkUeEU-26" target="vIM-qlWaezYcbGKkUeEU-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vIM-qlWaezYcbGKkUeEU-53" value="добавили в очередь" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="vIM-qlWaezYcbGKkUeEU-51">
+          <mxGeometry x="-0.4114" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vIM-qlWaezYcbGKkUeEU-26" value="&lt;b&gt;Queue controller&lt;br&gt;&lt;/b&gt;Получает информацию&amp;nbsp; и в зависимости от приоритета отдает в очередь&amp;nbsp;&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="400" y="40" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vIM-qlWaezYcbGKkUeEU-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vIM-qlWaezYcbGKkUeEU-27" target="vIM-qlWaezYcbGKkUeEU-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vIM-qlWaezYcbGKkUeEU-27" value="&lt;b&gt;Microphone&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="770" y="-70" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vIM-qlWaezYcbGKkUeEU-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.391;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="vIM-qlWaezYcbGKkUeEU-36" target="vIM-qlWaezYcbGKkUeEU-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="870" y="570" />
+              <mxPoint x="567" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vIM-qlWaezYcbGKkUeEU-40" value="Отдает муз. плейлист" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vIM-qlWaezYcbGKkUeEU-38">
+          <mxGeometry x="-0.4659" y="-1" relative="1" as="geometry">
+            <mxPoint x="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vIM-qlWaezYcbGKkUeEU-36" value="&lt;b&gt;Playlist generator&lt;/b&gt;&lt;br&gt;В зависимости от используемых музыкальных БАЗ формирует таблицу Music&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="827" y="440" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vIM-qlWaezYcbGKkUeEU-50" value="забирает информацию из таблиц" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="520" y="80" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vIM-qlWaezYcbGKkUeEU-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=11;" edge="1" parent="1" source="vIM-qlWaezYcbGKkUeEU-63" target="vIM-qlWaezYcbGKkUeEU-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vIM-qlWaezYcbGKkUeEU-65" value="отдает&lt;br&gt;плейлист&lt;br&gt;рекламы" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;" vertex="1" connectable="0" parent="vIM-qlWaezYcbGKkUeEU-64">
+          <mxGeometry x="0.2077" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vIM-qlWaezYcbGKkUeEU-63" value="&lt;b&gt;ADV Generator&lt;/b&gt;&lt;br&gt;Получает инфу с севера и генерирует рекламный плейлст" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="390" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vIM-qlWaezYcbGKkUeEU-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=11;" edge="1" parent="1" source="vIM-qlWaezYcbGKkUeEU-73" target="vIM-qlWaezYcbGKkUeEU-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vIM-qlWaezYcbGKkUeEU-73" value="&lt;b&gt;Controller-client&lt;/b&gt;&lt;br&gt;Получает информацию с сервера, получает музыку и рекламу, получает м. базу обслуживает вещалку" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="265" width="110" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
