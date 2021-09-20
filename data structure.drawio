@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-20T23:38:23.685Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="sCnqa-QO_x8XtPkUNXLB" version="15.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-20T23:42:55.279Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="XNhZ5dqr25GfeR1uEmz1" version="15.2.1" type="github">
   <diagram id="9BgmfVq6AIESk__lORL1" name="Page-1">
-    <mxGraphModel dx="2009" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1401" dy="257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -822,6 +822,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="oPhpOvEjaYhGAEeN9ae9-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="ep3nBhFJSTnfOGq6wZo2-67" target="oPhpOvEjaYhGAEeN9ae9-71">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-520" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ep3nBhFJSTnfOGq6wZo2-67" value="&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;sync@a1radio.ru&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="-550" y="190" width="159" height="20" as="geometry" />
         </mxCell>
@@ -847,7 +854,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ep3nBhFJSTnfOGq6wZo2-75" value="rao-reports-files.txt" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-461" y="280" width="121" height="20" as="geometry" />
+          <mxGeometry x="-450" y="280" width="121" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ep3nBhFJSTnfOGq6wZo2-77" value="music_base" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-471" y="350" width="80" height="20" as="geometry" />
@@ -871,11 +878,25 @@
         <mxCell id="oPhpOvEjaYhGAEeN9ae9-70" value="other_content" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-409" y="530" width="79" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="oPhpOvEjaYhGAEeN9ae9-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="oPhpOvEjaYhGAEeN9ae9-71" target="oPhpOvEjaYhGAEeN9ae9-76">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-480" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="oPhpOvEjaYhGAEeN9ae9-71" value="&lt;b&gt;sync&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-500" y="240" width="80" height="20" as="geometry" />
+          <mxGeometry x="-491" y="240" width="41" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="oPhpOvEjaYhGAEeN9ae9-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="oPhpOvEjaYhGAEeN9ae9-76" target="ep3nBhFJSTnfOGq6wZo2-75">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-460" y="290" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="oPhpOvEjaYhGAEeN9ae9-76" value="&lt;b&gt;rao_report&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-477" y="260" width="80" height="20" as="geometry" />
+          <mxGeometry x="-470" y="260" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="oPhpOvEjaYhGAEeN9ae9-77" value="sync" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="145" y="200" width="60" height="20" as="geometry" />
