@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-12T23:21:09.987Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="7l6N3hlgcY8LrzgBwlv4" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-12T23:44:11.830Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="Xxprwkdb6D-6J_akhDQj" version="17.4.3" type="github">
   <diagram id="rHm9rUUD63VU1GbHYbXE" name="Page-1">
-    <mxGraphModel dx="2274" dy="1919" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2997" dy="2152" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -208,6 +208,48 @@
         </mxCell>
         <mxCell id="ZA0DZCqkEeS0DlyHUANy-70" value="Передача веб контента на отдельное хранилище" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="520" y="300" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-GUytkPlPkFM9qIjfB-2-3" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="960" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-GUytkPlPkFM9qIjfB-2-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-GUytkPlPkFM9qIjfB-2-3">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-GUytkPlPkFM9qIjfB-2-5" value="GERATION1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-GUytkPlPkFM9qIjfB-2-3">
+          <mxGeometry width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-GUytkPlPkFM9qIjfB-2-6" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1121" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-GUytkPlPkFM9qIjfB-2-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-GUytkPlPkFM9qIjfB-2-6">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-GUytkPlPkFM9qIjfB-2-8" value="GENERATION2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-GUytkPlPkFM9qIjfB-2-6">
+          <mxGeometry width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-GUytkPlPkFM9qIjfB-2-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-GUytkPlPkFM9qIjfB-2-8" target="ZA0DZCqkEeS0DlyHUANy-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1181" y="290" />
+              <mxPoint x="1340" y="290" />
+              <mxPoint x="1340" y="-50" />
+              <mxPoint x="460" y="-50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-GUytkPlPkFM9qIjfB-2-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-GUytkPlPkFM9qIjfB-2-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1020" y="290" />
+              <mxPoint x="1340" y="290" />
+              <mxPoint x="1340" y="-50" />
+              <mxPoint x="460" y="-50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-GUytkPlPkFM9qIjfB-2-14" value="Прямой VPN-туннель от сервера SQL до серверов генерации" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="-73" width="380" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
