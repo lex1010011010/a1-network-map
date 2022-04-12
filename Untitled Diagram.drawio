@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-12T23:02:53.846Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="9GN_35Zh4gM3T-QAHxjo" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-12T23:14:28.077Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="BLDs84vvyBou30vh5Xz1" version="17.1.3" type="github">
   <diagram id="rHm9rUUD63VU1GbHYbXE" name="Page-1">
-    <mxGraphModel dx="1912" dy="1732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2756" dy="2169" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -190,7 +190,7 @@
         <mxCell id="ZA0DZCqkEeS0DlyHUANy-64" value="Connector запрвшивает данные по полученной URL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="657" width="320" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ZA0DZCqkEeS0DlyHUANy-65" value="Connector данные по SFTP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ZA0DZCqkEeS0DlyHUANy-65" value="Connector получает данные по SFTP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="702" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZA0DZCqkEeS0DlyHUANy-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=classic;endFill=1;" edge="1" parent="1" source="ZA0DZCqkEeS0DlyHUANy-56" target="ZA0DZCqkEeS0DlyHUANy-19">
